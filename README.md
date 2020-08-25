@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenshibu&layout=compact)](https://github.com/rubenshibu/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenshibu&hide=javascript,html)](https://github.com/rubenshibu/github-readme-stats)
 
 
