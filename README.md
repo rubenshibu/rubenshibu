@@ -13,5 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <img align="center" alt="ruben's github stats" src="https://github-readme-stats.rubenshibu.vercel.app/api?username=rubenshibu&show_icons=true&hide_border=true" />
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenshibu&layout=compact)](https://github.com/rubenshibu/github-readme-stats)
+
+
+
