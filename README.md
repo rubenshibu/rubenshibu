@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **React, HTML, CSS, JS, Linux** :neutral_face:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ruben-shibu-b7607b183/)
 - ⚡ Fun fact: :innocent:
-
+<img align="center" alt="Tuben's github stats" src="https://github-readme-stats.rubenshibu.vercel.app/api/top-langs?username=rubenshibu&show_icons=true&hide_border=true&layout=compact" />
 
 
 
