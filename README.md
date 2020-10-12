@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ruben-shibu-b7607b183/)
 - ⚡ Fun fact: :innocent:
 
+<details>
+      <summary>Most using languages</summary>
 <img align="center" alt="Ruben's github stats" src="https://github-readme-stats.rubenshibu.vercel.app/api/top-langs?username=rubenshibu&show_icons=true&hide_border=true&layout=compact" />
-
+</details>
 
 
 
