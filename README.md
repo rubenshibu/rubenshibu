@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Ruben Shibu
-
+<!-- ### Hi there 👋 I'm Ruben Shibu -->
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Ruben Shibu </h1>
+<p align="center">
 <!--
 **rubenshibu/rubenshibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning ....
