@@ -8,7 +8,7 @@
 
 </p>
 
-- 🔭 I’m currently working on **react,[IEEE AJCE SB](https://github.com/ajceieee)** :sweat_smile:
+- 🔭 I’m currently working on **react, [IEEE AJCE SB](https://github.com/ajceieee)** :sweat_smile:
 - 👯 I’m looking to collaborate on **still looking**
 - 🤔 I’m looking for help with **ML, React, Node** 
 - 💬 Ask me about **React, HTML, CSS, JS, Linux** :neutral_face:
