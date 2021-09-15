@@ -7,6 +7,7 @@
 </a>
 
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=i'm a front-end developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **react, [IEEE AJCE SB](https://github.com/ajceieee)** :sweat_smile:
 - 👯 I’m looking to collaborate on **still looking**
