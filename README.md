@@ -9,8 +9,8 @@
 </a>
 </p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/rubenshibu?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenshibu/)](https://www.linkedin.com/in/rubenshibu/)
-
+<!-- [![Linkedin: anmol](https://img.shields.io/badge/rubenshibu?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenshibu/)](https://www.linkedin.com/in/rubenshibu/)
+ -->
 ![GitHub followers](https://img.shields.io/github/followers/rubenshibu?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://rubenshibu.tech/)](http://rubenshibu.tech/)
 
