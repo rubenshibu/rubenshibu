@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=1FF700&size=22&center=true&lines=Hi+there%2C+I'm+Ruben+Shibu+;i'm+a+front-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%2302A81C&lines=Hi%2C+I'm+Ruben+Shibu;I'm+a+front-end+Developer;Ethical+Hacker)](https://git.io/typing-svg)
 
 <!-- <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ruben Shibu </h1> -->
 
