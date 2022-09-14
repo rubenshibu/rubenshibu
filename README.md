@@ -17,7 +17,6 @@
 
 - 🔭 I’m currently working on **react** :sweat_smile:
 - 👯 I’m looking to collaborate on **still looking**
-- 🤔 I’m looking for help with **.jsx, .js, .py** 
 - 💬 Ask me about **React, HTML, CSS, JS, Linux** :neutral_face:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ruben-shibu-b7607b183/)
 - ⚡ Fun fact: :innocent:
